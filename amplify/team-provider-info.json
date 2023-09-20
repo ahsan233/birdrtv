@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bidrtv-dev-101216-authRole",
+      "UnauthRoleArn": "arn:aws:iam::263223006673:role/amplify-bidrtv-dev-101216-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::263223006673:role/amplify-bidrtv-dev-101216-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bidrtv-dev-101216-deployment",
+      "UnauthRoleName": "amplify-bidrtv-dev-101216-unauthRole",
+      "StackName": "amplify-bidrtv-dev-101216",
+      "StackId": "arn:aws:cloudformation:us-east-1:263223006673:stack/amplify-bidrtv-dev-101216/1c318db0-56ab-11ee-a0d5-0e6d5c615f0d",
+      "AmplifyAppId": "dhl46e6bj40m9"
+    },
+    "categories": {
+      "auth": {
+        "bidrtvb24bf892": {}
+      },
+      "api": {
+        "bidrtv": {}
+      },
+      "storage": {
+        "s3e3e82e42": {}
+      }
+    }
+  }
+}

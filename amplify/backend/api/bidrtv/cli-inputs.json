@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "bidrtv",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authbidrtvb24bf892"
+    },
+    "additionalAuthTypes": [],
+    "conflictResolution": {}
+  }
+}

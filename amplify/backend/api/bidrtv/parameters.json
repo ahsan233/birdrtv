@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "bidrtv",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authbidrtvb24bf892",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2023-09-19T06:13:29.311Z"
+}
